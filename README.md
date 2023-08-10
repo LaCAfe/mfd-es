@@ -21,7 +21,7 @@ When using this dictionary for academic purposes, please cite our article:
     publisher={Universidad de Chile},
     isbn={978-956-414-163-3},
     pages={287--291},
-    url={[http://tise.cl/volumen16/TISE2023.pdf](https://www.tise.cl/Volumen16/Short%20Paper/TISE_2022_paper_11.pdf)}
+    url={https://www.tise.cl/Volumen16/Short%20Paper/TISE_2022_paper_11.pdf}
 }
 
 
